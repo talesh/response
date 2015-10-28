@@ -114,7 +114,7 @@ It is very important that you thoroughly test your incident response process bef
 
 ## Related Information
 For more information about creating an incidence response plan, see the following: 
-*	Handbook for Computer Security Incident Response Teams
+*	[Handbook for Computer Security Incident Response Teams](http://go.microsoft.com/fwlink/?LinkId=22398)
 *	Incident Response: Investigating Computer Crime by Chris Prosise and Kevin Mandia (McGraw-Hill Professional Publishing, ISBN: 00723829). 
 
 
