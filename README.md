@@ -105,6 +105,8 @@ Be aware that damage can come in many forms, and that a headline in the popular 
 
 ## Important notes
 
+When this document is completed for your site, it is highly advised that you undergo drills to see how your team uses it and responds to issues so you are prepared should you do have a data breach.
+
 These steps are not purely sequential. Rather, they happen throughout the incident. For example, documentation starts at the very beginning and continues throughout the entire life cycle of the incident; communication also happens throughout the entire incident. 
 
 An overzealous response could even cause more damage than the initial attack. By working these steps alongside each other, you will get the best compromise between swift and effective action.
