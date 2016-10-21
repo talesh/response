@@ -105,12 +105,18 @@ Be aware that damage can come in many forms, and that a headline in the popular 
 
 ## Important notes
 
-When this document is completed for your site, it is highly advised that you undergo drills to see how your team uses it and responds to issues so you are prepared should you do have a data breach.
+After you have completed this document for your team, it is highly advised that you undergo drills to see how your team uses it and responds to issues. This way you can identify shortcomings or extra information you can add to it.
 
 These steps are not purely sequential. Rather, they happen throughout the incident. For example, documentation starts at the very beginning and continues throughout the entire life cycle of the incident; communication also happens throughout the entire incident. 
 
 An overzealous response could even cause more damage than the initial attack. By working these steps alongside each other, you will get the best compromise between swift and effective action.
 It is very important that you thoroughly test your incident response process before an incident occurs. Without thorough testing, you cannot be confident that the measures that you have in place will be effective in responding to incidents. 
+
+
+
+## If you need help
+
+There are a few security focused consultants that may be available to help you proactively defend your site at  https://commercehero.io/security
 
 
 
