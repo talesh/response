@@ -60,7 +60,7 @@ Implements Permanent Fix | Owner | Implements | Updates | Updates | Updates |
 Determines Financial Impact on Business | Updates | Updates | Advises | Updates | Owner |
 Review the response and update the plan | Implements | Advises | Advises | Advises | Advises |
 
-## IMPLEMENTATION NOTES
+## IMPLEMENTATION OF INCIDENT RESPONSE
  
 #### Making an Initial Assessment
 *	You should confirm whether you are dealing with an actual incident or a false positive. 
