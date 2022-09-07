@@ -74,7 +74,7 @@ Note: You should avoid false positives whenever possible; however, it is always
 #### Communicating the Incident
 Be aware that damage can come in many forms, and that a headline in the popular sites exaggerating a security breach can be much more destructive than an actual intrusions. For this reason, and to prevent an attacker from being tipped off, only those playing a role in the incident response should be informed until the incident is properly controlled. Based on the unique situation, your team will later determine who needs to be informed of the incident. This could be anyone from specific individuals up to the entire company and external customers. Communication externally should be coordinated with the Legal Representative.
 
-#### Containing the Damage and Minimizing the Risks
+#### Containing the Damage and Minimizing the Risks
 
 *	Protect classified and sensitive data. As part of your planning for incident response, you should already have a clear definition of which data is classified and which is sensitive. This will enable you to prioritize your responses in protecting all customer card data, and identifiable customer information. With Magento this is mostly stored in the MySQL database but also be aware of the possibility of Varnish, Apache or PHP logs being dumped to disk.  
 
@@ -97,7 +97,7 @@ Be aware that damage can come in many forms, and that a headline in the popular 
 *	You should not attempt to deny to the media that an incident has occurred, because doing so is likely to damage your reputation more than proactive admission and visible responses ever will. This does not mean that you need to notify the media for each and every incident regardless of its nature or severity. You should assess the appropriate media response on a case-by-case basis.
 
 
-#### Compiling and Organizing Incident Evidence
+#### Compiling and Organizing Incident Evidence
 
 *	The CSIRT should thoroughly document all processes when dealing with any incident. This should include a description of the breach and details of each action taken (who took the action, when they took it, and the reasoning behind it). All people involved with access must be noted throughout the response process.
 *	Afterward, the documentation should be chronologically organized, checked for completeness, and signed and reviewed with management and legal representatives. You will also need to safeguard the evidence collected in the protect evidence phase. You should consider having two people present during all phases who can sign off on each step. This will help reduce the likelihood of evidence being inadmissible and the possibility of evidence being modified afterward.
