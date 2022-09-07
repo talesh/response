@@ -61,6 +61,9 @@ Determines Financial Impact on Business | Updates | Updates | Advises | Updates 
 Review the response and update the plan | Implements | Advises | Advises | Advises | Advises |
 
 ## IMPLEMENTATION OF INCIDENT RESPONSE
+
+These steps should be conducted during an incident response. They are not numbered since they're not exclusively sequential. Rather, they happen throughout the incident. For example, documentation starts at the very beginning and continues throughout the entire life cycle of the incident; communication also happens throughout the entire incident. An overzealous response could even cause more damage than the initial attack. By working these steps alongside each other, you will get the best compromise between swift and effective action. 
+
  
 #### Making an Initial Assessment
 *	You should confirm whether you are dealing with an actual incident or a false positive. 
@@ -104,14 +107,11 @@ Be aware that damage can come in many forms, and that a headline in the popular 
 *	Remember that the offender might be an employee, contractor, temporary employee, or other insider within your organization. Without thorough, detailed documentation, identifying an inside offender will be very difficult. Proper documentation also gives you the best chance of prosecuting offenders.
 
 
+---
 
-## Important Considerations for implementation
+## Preparation
 
-After you have completed this document for your team, it is highly advised that you undergo drills to see how your team uses it and responds to issues. This way you can identify shortcomings or extra information you can add to it.
-
-These steps are not purely sequential. Rather, they happen throughout the incident. For example, documentation starts at the very beginning and continues throughout the entire life cycle of the incident; communication also happens throughout the entire incident. 
-
-An overzealous response could even cause more damage than the initial attack. By working these steps alongside each other, you will get the best compromise between swift and effective action. It is very important that you thoroughly test your incident response process before an incident occurs. Without thorough testing, you cannot be confident that the measures that you have in place will be effective in responding to incidents. 
+After you have completed this document for your team, it is highly advised that you undergo drills to see how your team uses it and responds to issues. This way you can identify shortcomings or extra information you can add to it. It is very important that you thoroughly test your incident response process before an incident occurs. Without thorough testing, you cannot be confident that the measures that you have in place will be effective in responding to incidents. 
 
 
 ## Related Information
